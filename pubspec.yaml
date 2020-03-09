@@ -25,6 +25,7 @@ dependencies:
     cupertino_icons: ^0.1.2
     dio: ^3.0.9
     flip_card: ^0.4.4
+    flutter_svg: ^0.17.3
 
 dev_dependencies:
     flutter_test:
